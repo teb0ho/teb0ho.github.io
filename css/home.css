@@ -131,8 +131,7 @@ footer .container {
 }
 
 div .container .first-paragraph {
-  display: inline-block;
-  word-wrap: break-word;
+  overflow-wrap: break-word;
   hyphens: auto;
 }
 
