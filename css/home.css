@@ -132,6 +132,10 @@ footer .container {
 
 div .container .first-paragraph {
   overflow-wrap: break-word;
+  word-break: break-word;
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
   hyphens: auto;
 }
 
