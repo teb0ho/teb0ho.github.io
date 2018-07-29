@@ -200,6 +200,10 @@ header .container .intro-text {
 
 }
 
+.text-muted {
+  font-family: 'Source Code Pro';
+}
+
 #logo {
   font-family: 'Varela Round';
 }
