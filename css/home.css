@@ -3,7 +3,7 @@
   font-size: 13px;
 }
 p {
-  font-family: 'Space Mono';
+  font-family: 'Source Code Pro';
 }
 
 header .container h1 {
@@ -35,14 +35,14 @@ textarea {
 }
 
 input, textarea {
-  font-family: 'Space Mono';
+  font-family: 'Source Code Pro';
 }
 
 input[type=submit] {
   background: #c9880c;
   color: #fff;
   width: 100px;
-  font-family: 'Space Mono';
+  font-family: 'Source Code Pro';
   padding-bottom: 10px;
 }
 
@@ -161,7 +161,7 @@ h1 {
 }
 
 html {
-  font-family: 'Space Mono';
+  font-family: 'Source Code Pro';
 }
 
 header {
@@ -195,7 +195,7 @@ header .container  {
 
 header .container .intro-text {
   padding-top: 50px;
-  font-family: 'Space Mono', monospace;
+  font-family: '', monospace;
   text-align: center;
 
 }
