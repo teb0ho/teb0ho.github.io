@@ -102,6 +102,11 @@ footer .container {
   /*float: left; */
 }
 
+#micro {
+  width: 120px;
+  margin-right: 83px;
+}
+
 .hortonworks p {
   /*line-height: 3em;*/
   padding-top: 15px;
